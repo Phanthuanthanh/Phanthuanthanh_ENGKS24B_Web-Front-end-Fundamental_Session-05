@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: #24638d;
+}
+
+div{
+    border-left: 8px solid hsl(50.27deg 71.15% 59.22%);
+    background-color: hsl(41.25deg 100% 96.86%);
+    padding-left: 10px;
+}
