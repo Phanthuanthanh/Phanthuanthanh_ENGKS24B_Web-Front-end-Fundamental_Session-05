@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.table1{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.table2{
+    padding-left: 15px;
+}
+
+.table3{
+    color: gray;
+    font-size: small;
+    font-weight: lighter;
+    padding-left: 15px;
+}
